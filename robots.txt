@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nahquooto.5systems.de/sitemap.xml
